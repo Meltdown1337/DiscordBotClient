@@ -27,4 +27,5 @@ A patched version of discord, with bot login support
 You need to install NodeJS. Install git or just download the repository as a zip file:
 
 ``git clone https://github.com/NysmDev/DiscordBotClient
+
 cd discord-bot-client/electron``
